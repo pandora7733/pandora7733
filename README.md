@@ -2,6 +2,8 @@
 <!--
 **pandora7733/pandora7733** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+원하는 뱃지가 필요할때 =>> {https://velog.io/@hippohami/Git-README-꾸미기-뱃지-모음}
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

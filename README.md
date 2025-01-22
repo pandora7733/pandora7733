@@ -20,10 +20,12 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="git_baner2.gif"/>
   <img src="[git_baner2.gif](https://github.com/pandora7733/pandora7733/blob/main/git_baner2.gif)"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=pandora7733&show_icons=true&theme=midnight-purple"/>
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandora7733&layout=compact&theme=midnight-purple"/>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=pandora7733&show_icons=true&theme=midnight-purple"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandora7733&layout=compact&theme=midnight-purple"/>
 
 
 

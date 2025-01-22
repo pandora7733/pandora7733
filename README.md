@@ -23,13 +23,16 @@ Here are some ideas to get you started:
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=pandora7733&show_icons=true&theme=midnight-purple"/>
   <br>
+  <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandora7733&layout=compact&theme=midnight-purple"/>
 </div>
 
+<br>
 
 
+<h2 align="center">Languages</h3>
 
-<h3 align="center">Languages</h3>
+<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
@@ -39,7 +42,9 @@ Here are some ideas to get you started:
 </div>
 
 
-<h3 align="center">Tools</h3>
+<h2 align="center">Tools</h3>
+
+<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp

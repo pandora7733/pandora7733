@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>##Hello everyone!</p>
+
 
 <div align="center">
   <img src"git_baner2.gif"/>

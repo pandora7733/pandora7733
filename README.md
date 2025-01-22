@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandora7733&show_icons=true&theme=midnight-purple"/>
 
 <h3 align="center">Languages</h3>
 

@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 -->
 
 <p align='center'>
-  <img src='/github-metrics.svg' width='49%' align='right' style='background-color: #000000'>
-
   <img src="https://github-readme-stats.vercel.app/api?username=pandora7733&show_icons=true&theme=midnight-purple"
   width="50%" align="right/>
 

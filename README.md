@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 -->
 
 <p align='center'>
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=pandora7733&show_icons=true&theme=midnight-purple"/> -->
-
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandora7733&layout=compact&theme=midnight-purple"/>
 </p>
 
@@ -32,7 +30,7 @@ Here are some ideas to get you started:
 
 
 **Tools**
-<!-- anaconda, pycharm, git, github, visualsudio code, jupyter, Google Colab -->
+<!-- anaconda, pycharm, git, github, visualsudio code, jupyter, Google Colab, Django -->
 ![image](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white)
 ![image](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white)
 ![image](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -40,3 +38,4 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726)
 ![image](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=Google%20Colab&logoColor=white)
+![image](https://img.shields.io/badge/django-092e20?logo=django&style=for-the-badge&logoColor=white)

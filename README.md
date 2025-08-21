@@ -32,7 +32,7 @@ const AboutMe = {
       Tools: ["Jupyter, Pycharm, Sublime Text, VScode, Git, GitHub"],
       UseAI: ["ChatGpt, Gemini"],
       OS: ["macOS, Ubuntu, Raspberry Pi"],
-  }
+  },
   Music: ["Jpop"],
   Mission: ["Conquering the world with code"],
 }

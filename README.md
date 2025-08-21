@@ -23,14 +23,18 @@ const AboutMe = {
   pronouns: "He" | "Him",
   name: "SIHOO PARK",
   description: `Hi! I’m a high school student from South Korea, 
-  passionate about AI and full-stack development.`,
-  languages: ["Python3, HTML5, CSS3, TS"],
-  Frameworks&Libraries: ["React, NextJS, Express.js, Django, Flask"],
-  DataBase: ["MySQL, MongoDB, PostgreSQL, SQLite"],
-  Cloud: ["AWS, GCP, Docker"],
-  Tools: ["Jupyter, Pycharm, Sublime Text, VScode, Git, GitHub"],
-  UseAI: ["ChatGpt, Gemini"],
-  OS: ["macOS, Ubuntu, Raspberry Pi"],
+                passionate about AI and full-stack development.`,
+  technologies: {
+      languages: ["Python3, HTML5, CSS3, TS"],
+      Frameworks&Libraries: ["React, NextJS, Express.js, Django, Flask"],
+      DataBase: ["MySQL, MongoDB, PostgreSQL, SQLite"],
+      Cloud: ["AWS, GCP, Docker"],
+      Tools: ["Jupyter, Pycharm, Sublime Text, VScode, Git, GitHub"],
+      UseAI: ["ChatGpt, Gemini"],
+      OS: ["macOS, Ubuntu, Raspberry Pi"],
+  }
+  Music: ["Jpop"],
+  Mission: ["Conquering the world with code"],
 }
 ```
 

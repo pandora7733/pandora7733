@@ -18,17 +18,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```javascript
+const AboutMe = {
+  pronouns: "He" | "Him",
+  name: "SIHOO PARK",
+  description: "Hi! I’m a high school student from South Korea, passionate about AI and full-stack development.",
+  languages: ["Python3, HTML5, CSS3, TS"],
+}
+
+```
+
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandora7733&layout=compact&theme=midnight-purple"/>
 </p>
-
-**Languages**
-<br/>
-<!-- html5, css3, python, JS, TS -->
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 **Frameworks & Libraries**

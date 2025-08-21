@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 const AboutMe = {
   pronouns: "He" | "Him",
   name: "SIHOO PARK",
-  description: "Hi! I’m a high school student from South Korea, 
-  passionate about AI and full-stack development.",
+  description: `Hi! I’m a high school student from South Korea, 
+  passionate about AI and full-stack development.`,
   languages: ["Python3, HTML5, CSS3, TS"],
   Frameworks&Libraries: ["React, NextJS, Express.js, Django, Flask"],
   DataBase: ["MySQL, MongoDB, PostgreSQL, SQLite"],

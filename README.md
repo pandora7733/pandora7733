@@ -1,6 +1,5 @@
 
-## <div align="center">🤜 conding_sihoo 🤛</div>
-
+## <div align="center">🤜 conding_sihoo 🤛<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></div>
 <!--
 **pandora7733/pandora7733** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -51,3 +50,4 @@ const AboutMe = {
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandora7733&layout=compact&theme=midnight-purple"/>
 </p>
+

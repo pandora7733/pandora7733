@@ -38,7 +38,7 @@ const AboutMe = {
     },
     DataBase: ["MySQL, MongoDB"],
     Cloud: ["AWS, GCP, Docker"],
-    Tools: ["Jupyter, Sublime Text, VScode, Git, GitHub"],
+    Tools: ["Jupyter, Sublime Text, Git, GitHub, Cursor"],
     OS: ["OSX, Ubuntu, Arch"],
   },
   Music: ["Jpop"],
